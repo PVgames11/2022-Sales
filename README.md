@@ -30,13 +30,19 @@ Este repositório contém o projeto desenvolvido durante o curso de Power BI min
 ## Capturas de Tela
 
 ### Página Inicial
-![Página Inicial](images/Captura%20de%20tela%202024-07-02%20120525.png)
+![Página Inicial](2022-Sales
+/Captura de tela 2024-07-02 120525.png
+)
 
 ### Drill Through
-![Drill Through](images/drill_through.png)
+![Drill Through](2022-Sales
+/Captura de tela 2024-07-02 121253.png
+)
 
 ### Tooltip
-![Tooltip](images/tooltip.png)
+![Tooltip](2022-Sales
+/Captura de tela 2024-07-02 121302.png
+)
 
 ## Tecnologias Utilizadas
 - **Power BI:** Ferramenta principal para criação de relatórios e dashboards
