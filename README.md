@@ -30,7 +30,7 @@ Este repositório contém o projeto desenvolvido durante o curso de Power BI min
 ## Capturas de Tela
 
 ### Página Inicial
-![Página Inicial](images/pagina_inicial.png)
+![Página Inicial](Captura de tela 2024-07-02 120525.png)
 
 ### Drill Through
 ![Drill Through](images/drill_through.png)
