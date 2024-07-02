@@ -30,7 +30,7 @@ Este repositório contém o projeto desenvolvido durante o curso de Power BI min
 ## Capturas de Tela
 
 ### Página Inicial
-![Página Inicial](images/Captura de tela 2024-07-02 120525.png)
+![Página Inicial](images/Captura%20de%20tela%202024-07-02%20120525.png)
 
 ### Drill Through
 ![Drill Through](images/drill_through.png)
@@ -45,7 +45,7 @@ Este repositório contém o projeto desenvolvido durante o curso de Power BI min
 
 ## Como Visualizar o Projeto
 
-1. Abra o arquivo: https://app.powerbi.com/view?r=eyJrIjoiMmY1ODdmMjMtMGI4YS00NTY2LWEwNTYtZDFkZDFmZDRmOWI0IiwidCI6ImIyYjM3MjZjLTM5ZjItNGVmMS04MTRlLWFmM2QwMDA4ZDE3MyJ9  no Power BI Desktop.
+1. Abra o arquivo:[link](https://app.powerbi.com/view?r=eyJrIjoiMmY1ODdmMjMtMGI4YS00NTY2LWEwNTYtZDFkZDFmZDRmOWI0IiwidCI6ImIyYjM3MjZjLTM5ZjItNGVmMS04MTRlLWFmM2QwMDA4ZDE3MyJ9).
 
 ## Agradecimentos
 Agradeço ao Bruce Fonseca pela excelente orientação e aos colegas de curso pela troca de conhecimentos e apoio.
@@ -58,3 +58,7 @@ Para mais informações, entre em contato:
 ---
 
 Sinta-se à vontade para modificar qualquer parte conforme necessário. Se precisar de mais alguma coisa, é só avisar!
+Claro! Vou atualizar o `README.md` com a imagem da página inicial que você forneceu:
+
+---
+
